@@ -1,0 +1,32 @@
+{
+  "name": "node-s3-storage-example",
+  "version": "1.0.0",
+  "description": "An example project on how to implement an s3 storage provider in Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev index.ts"
+  },
+  "author": "Reece Charsville",
+  "license": "ISC",
+  "devDependencies": {
+    "@aws-sdk/types": "^3.20.0",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.12",
+    "@types/multer": "^1.4.6",
+    "@types/node": "^16.0.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.939.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  },
+  "keywords": [
+    "node",
+    "multer",
+    "S3",
+    "aws"
+  ]
+}
