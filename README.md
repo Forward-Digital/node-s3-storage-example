@@ -5,7 +5,7 @@
 # S3 Storage with Node.js Example App
 This project demonstrates how you can use S3 object storage providers like Vultr, AWS and Digital Ocean in Node.js. 
 
-I would recommend reading [my blog post]('https://forwardigital.co.uk/blog/using-an-s3-object-storage-provider-in-nodejs') explaining how it works first.
+I would recommend reading [my blog post](https://forwardigital.co.uk/blog/using-an-s3-object-storage-provider-in-nodejs) explaining how it works first.
 
 <br />
 
